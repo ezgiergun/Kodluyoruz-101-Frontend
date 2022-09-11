@@ -1,0 +1,36 @@
+.text-red{
+    color: #FF4A4A;
+}
+
+.text-orange{
+    color: #FF9551;
+}
+
+.text-blue{
+    color: #6FEDD6;
+}
+
+.text-lightblue{
+    color: #B9FFF8;
+}
+
+.text-boldf{
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#buttontwo{
+    background-color: black;
+    color: #6FEDD6;
+    font-weight: bold;
+}
+
+#buttonone{
+    background-color: bisque;
+    color: #FF4A4A;
+    font-weight: bold;
+}
+
+body{
+    background-color: #293462;
+}
